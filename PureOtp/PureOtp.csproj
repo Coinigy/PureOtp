@@ -15,6 +15,7 @@
     <Company>Coinigy Inc.</Company>
     <Product>Pure Otp</Product>
     <Title>A Cross Platform OTP (TOTP HOTP) Library for .NET Core NetStandard</Title>
+    <Version>1.0.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
