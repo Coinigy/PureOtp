@@ -6,9 +6,9 @@
     <Authors>ByronP</Authors>
     <Copyright>Copyright 2018 Coinigy Inc.</Copyright>
     <PackageLicenseUrl>https://raw.githubusercontent.com/coinigy/PureOtp/master/LICENSE</PackageLicenseUrl>
-    <PackageProjectUrl>https://raw.githubusercontent.com/coinigy/PureOtp</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/coinigy/PureOtp</PackageProjectUrl>
     <PackageIconUrl>https://raw.githubusercontent.com/coinigy/PureOtp/master/PWSIcon.png</PackageIconUrl>
-    <RepositoryUrl>https://raw.githubusercontent.com/coinigy/PureOtp</RepositoryUrl>
+    <RepositoryUrl>https://github.com/coinigy/PureOtp</RepositoryUrl>
     <PackageTags>otp, totp, hotp, 2fa, 2 factor, 2 facter auth, auth, google authenticator, authy, authentication, authenticator</PackageTags>
     <PackageReleaseNotes>See git for list of changes.</PackageReleaseNotes>
     <Description>A Cross Platform OTP (TOTP HOTP) Library for .NET Core NetStandard</Description>
